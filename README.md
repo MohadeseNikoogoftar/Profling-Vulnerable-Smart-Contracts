@@ -1,1 +1,2 @@
 # Profling-Vulnerable-Smart-Contracts
+In this project, with the help of machine learning algorithms and deep neural networks, we preprocess the data we have from the dataset related to the features of smart contracts, reduce the dimensions and then train them. Finally, we compare the accuracy and loss obtained from the results with each other in a diagram and try to find the model that has the lowest error percentage. The main goal of this project is to find a model that can classify between secure and vulnerable contracts with the most accuracy and less loss percentage.
